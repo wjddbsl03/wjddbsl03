@@ -29,22 +29,22 @@
 
 ## Strengths
 
-<img src="https://api.iconify.design/fa6-solid:chart-simple.svg?color=%232b6cb0" width="18" height="18" align="absmiddle"> **데이터 정규화 및 이상치 제어**
+<img src="icons/chart.png" width="18"> **데이터 정규화 및 이상치 제어**
 - Z-Score 정규화와 로그 스케일(Log Scale)을 적용하여 변수 간 스케일 차이를 맞추고, 극단값(이상치)의 영향을 완화
 
-<img src="https://api.iconify.design/fa6-solid:chart-line.svg?color=%232b6cb0" width="18" height="18" align="absmiddle"> **시계열 데이터 패턴 시각화**
+<img src="icons/visualization.png" width="18"> **시계열 데이터 패턴 시각화**
 - 3개년 주차별 시계열 데이터를 히트맵과 산점도 등으로 시각화하여 데이터의 변동성을 분석
 - 특정 시점의 피크(Peak)와 주요 패턴을 도출하여 데이터 기반의 인사이트 발굴
 
-<img src="https://api.iconify.design/fa6-solid:circle-exclamation.svg?color=%232b6cb0" width="18" height="18" align="absmiddle"> **다중 변수 통합 및 이상 탐지 기획**
+<img src="icons/caution.png" width="18"> **다중 변수 통합 및 이상 탐지 기획**
 - 여러 지표(변수)에 목적별 가중치를 부여해 새로운 통합 지표를 설계
 - 단일 항목에서 극단적 수치가 발생할 경우 예외 등급을 강제 적용하는 규칙 기반 엔진 로직 기획
 
-<img src="https://api.iconify.design/fa6-solid:palette.svg?color=%232b6cb0" width="18" height="18" align="absmiddle"> **UI 기획 및 시각화 디자인**
+<img src="icons/palette.png" width="18"> **UI 기획 및 시각화 디자인**
 - Figma를 활용한 대시보드 UI/UX 기획, 논리적인 흐름을 담은 기획안 시각화 및 완성도 높은 PPT 발표 자료 제작
 
-<img src="https://api.iconify.design/fa6-solid:comments.svg?color=%232b6cb0" width="18" height="18" align="absmiddle"> **리더십 및 협업 커뮤니케이션**
--
+<img src="icons/communication.png" width="18"> **리더십 및 협업 커뮤니케이션**
+- 리더로서 팀원 간의 역할 분담과 의견 조율 · 일정 관리 · 지속적 개선
 
 ---
 
@@ -113,7 +113,7 @@
     <td>2025</td>
   </tr>
   <tr>
-    <td>국가우수장학금(이공게) (한국장학재단)</td>
+    <td>국가우수장학금(이공계) (한국장학재단)</td>
     <td>2022 · 2023 · 2024</td>
   </tr>
   <tr>
@@ -127,6 +127,13 @@
   </tr>
   <tr>
     <td>사회조사분석사 2급</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td>ADsP (데이터분석 준전문가)</td>
+    <td>2023</td>
+  </tr>
+</table>
 
 ---
 
