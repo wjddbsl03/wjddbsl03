@@ -7,6 +7,7 @@
 
 ---
 
+
 ## About
 
 - 학력: 빅데이터응용통계 (4학년) / 경성대학교
@@ -14,6 +15,7 @@
 - 관심 직무: 데이터 분석가
 
 ---
+
 
 ## Projects 정리 더 필요
 
@@ -23,6 +25,7 @@
 | [ZIP-SA (집사)](https://github.com/아이디/레포명) | 간단한 설명 | 결과물 |
 
 ---
+
 
 ## Strengths
 
@@ -45,6 +48,7 @@
 
 ---
 
+
 ## Tech
 
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
@@ -55,6 +59,7 @@
 | **Learning** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
+
 
 ## Certifications & Awards
 
@@ -86,6 +91,7 @@
     <td>사회조사분석사 2급</td>
 
 ---
+
 
 ## Contact
 
