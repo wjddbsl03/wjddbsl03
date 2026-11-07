@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.gif" alt="banner" width="600">
+</p>
+
 <h1 align="center">신정윤</h1>
 <p align="center">-임팩트 있는 소개 한 줄</p>
 
