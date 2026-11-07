@@ -149,5 +149,5 @@
 | 구분 | 연락처 |
 |---|---|
 | naver | jushin1007@naver.com |
-| naver | wjddbsl1007@gmail.com |
+| gmail | wjddbsl1007@gmail.com |
 | phone | 010-****-**** |
