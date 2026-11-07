@@ -51,13 +51,50 @@
 
 ## Tech
 
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **Data Processing & Visualization** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square) |
-| **Modeling & Statistical Analysis** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat-square) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square) |
-| **Analysis Methods** | 가설검정 · 회귀분석 · PCA/EFA · 베이지안 네트워크 |
-| **Environment & Collaboration** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Learning** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Processing & Visualization</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+      <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square" alt="matplotlib">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Modeling & Statistical Analysis</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/statsmodels-4051B5?style=flat-square" alt="statsmodels">
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+      <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square" alt="SPSS">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Analysis Methods</b></td>
+    <td>가설검정 · 회귀분석 · PCA · 베이지안 네트워크</td>
+  </tr>
+  <tr>
+    <td><b>Environment & Collaboration</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+    </td>
+  </tr>
+</table>
 
 ---
 
