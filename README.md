@@ -8,7 +8,7 @@
 ---
 
 
-## About
+### About
 
 - 학력: 빅데이터응용통계 (4학년) / 경성대학교
 - 관심 분야: 예측 모델링, 가설검정, 데이터 시각화·스토리텔링
@@ -17,7 +17,7 @@
 ---
 
 
-## Projects 정리 더 필요
+### Projects 정리 더 필요
 
 | 프로젝트 | 설명 | 결과물 |
 |---|---|---|
@@ -27,7 +27,7 @@
 ---
 
 
-## Strengths
+### Strengths
 
 <img src="icons/chart.png" width="18"> **데이터 정규화 및 이상치 제어**
 - Z-Score 정규화와 로그 스케일(Log Scale)을 적용하여 변수 간 스케일 차이를 맞추고, 극단값(이상치)의 영향을 완화
@@ -49,7 +49,7 @@
 ---
 
 
-## Tech
+### Tech
 
 <table>
   <tr>
@@ -99,7 +99,7 @@
 ---
 
 
-## Certifications & Awards
+### Certifications & Awards
 
 <table>
   <tr>
@@ -138,7 +138,7 @@
 ---
 
 
-## Contact
+### Contact
 
 | 구분 | 연락처 |
 |---|---|
